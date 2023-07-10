@@ -1,4 +1,4 @@
-# Monoplex KR Wide Nerd
+# Monoplex KR Wide Nerd
 
 [Visit Source](https://github.com/y-kim/monoplex)
 
