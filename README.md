@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Monoplex KR Wide Nerd';
@@ -12,7 +12,7 @@ font-family: 'Monoplex KR Wide Nerd';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideNerd/MonoplexKRWideNerd.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideNerd/MonoplexKRWideNerd.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -103,4 +103,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideNerd/MonoplexKRWideNerd-ExtraBold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKRWideNerd/MonoplexKRWideNerd-ExtraBold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+Copyright (c) 2021, Kim Yangsu with Reserved Font Name "Monoplex" and "Monoplex KR" 
+ 
+The Monoplex generate script (https://github.com/y-kim/monoplex) is licensed under the MIT License. 
+It is derived from the PlemolJP generate script (https://github.com/yuru7/PlemolJP) which is licensed under the MIT License. 
+And Monoplex Font Software is licensed under the SIL Open Font License v1.1.
 ```
